@@ -1,0 +1,15 @@
+{
+  "name": "politikapp",
+  "version": "1.0.0",
+  "description": "Mobile game aimed to educate players on political affairs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Politikapp/Pkapp.git"
+  },
+  "author": "Team Politikapp",
+  "license": "ISC"
+}
