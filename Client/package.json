@@ -11,5 +11,9 @@
     "url": "https://github.com/Politikapp/Pkapp.git"
   },
   "author": "Team Politikapp",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.4.2",
+    "react-native": "^0.56.0"
+  }
 }
